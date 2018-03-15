@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AMPApp</string>
+
+    <!-- Strings related to login -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">Begin Location Tracking</string>
+    <string name="login_text">Login Page</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">Password</string>
+    <string name="button_login_text">Login</string>
+    <string name="screen_page_text">Welcome to the second page</string>
+    <string name="attempt_text">Attempt</string>
+    <string name="title_activity_location">Location Tracking</string>
+    <string name="title_activity_connect_bt">Connect to Bluetooth</string>
+</resources>
